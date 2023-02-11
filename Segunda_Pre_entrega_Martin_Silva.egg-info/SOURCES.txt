@@ -1,0 +1,10 @@
+setup.py
+Segunda_Pre_entrega_Martin_Silva.egg-info/PKG-INFO
+Segunda_Pre_entrega_Martin_Silva.egg-info/SOURCES.txt
+Segunda_Pre_entrega_Martin_Silva.egg-info/dependency_links.txt
+Segunda_Pre_entrega_Martin_Silva.egg-info/top_level.txt
+paquete/__init__.py
+paquete/adios/__init__.py
+paquete/adios/despedida.py
+paquete/hola/__init__.py
+paquete/hola/saludos.py
